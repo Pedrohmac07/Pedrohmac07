@@ -1,7 +1,7 @@
 ## Welcome! I am Pedro Henrique Machado. 👋 
 
 📓 Engineering Computer Student at FMU. <br>
-💻 Trying to be a full stack dev! <br>
+💻 In my way to be a full stack dev! <br>
 🌐 Posting diverses projects here. <br>
 
 
