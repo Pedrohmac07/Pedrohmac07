@@ -25,7 +25,7 @@
 
 # 📝**Projects**:
 # 🌐 *Sites*:
-## <center> | [🔐*Tela de Login*](https://pedrohmac07.github.io/Tela-De-Login/) | [🦅*Corinthians*](https://pedrohmac07.github.io/HTML_CSS/Projetos/SiteCorinthians/) | [☀️*VaporWave*](https://pedrohmac07.github.io/HTML_CSS/Projetos/VaporWave/) | [🎯*Landing-Page*](https://pedrohmac07.github.io/trilha-css-desafio-01/)
+## <center> | [🔐*Tela de Login*](https://pedrohmac07.github.io/Tela-De-Login/) | [🦅*Corinthians*](https://pedrohmac07.github.io/HTML_CSS/Projetos/SiteCorinthians/) | [☀️*VaporWave*](https://pedrohmac07.github.io/HTML_CSS/Projetos/VaporWave/) | [🎯*Landing-Page*](https://pedrohmac07.github.io/trilha-css-desafio-01/) |
 </center>
 
 
