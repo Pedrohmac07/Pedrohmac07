@@ -4,9 +4,6 @@
 
 
 <center>
-
-![PFP](https://media.licdn.com/dms/image/v2/D4E03AQFKbaQ7HZ2mAA/profile-displayphoto-shrink_200_200/B4EZZGsi5_GYAY-/0/1744942805242?e=1752710400&v=beta&t=jP6enA1owPWI8iePzSNs8bAEdc80fgXpgcJsUdsDHko) </center>
-
 ## 👤 Sobre mim
 
 📓 Estudante de egenharia da computação na FMU. <br>
