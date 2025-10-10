@@ -42,11 +42,3 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ---
-
-<center>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pedrohmac07&theme=neon-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![](https://visitcount.itsvg.in/api?id=Pedrohmac07&icon=5&color=2)](https://visitcount.itsvg.in)
-
-</center>
