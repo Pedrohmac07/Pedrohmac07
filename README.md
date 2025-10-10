@@ -47,18 +47,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pedrohmac07&theme=neon-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pedrohmac07&theme=neon-palenightt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohmac07&theme=neon-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</center>
-
-## 🔝 Top Contributed Repo
-
-<center>
-
-![](https://github-contributor-stats.vercel.app/api?username=Pedrohmac07&limit=5&theme=neon-palenight&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Pedrohmac07&icon=5&color=2)](https://visitcount.itsvg.in)
 
 </center>
