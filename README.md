@@ -26,10 +26,6 @@
 ## <center> | [🔐*Tela de Login*](https://pedrohmac07.github.io/Tela-De-Login/) | [🦅*Corinthians*](https://pedrohmac07.github.io/HTML_CSS/Projetos/SiteCorinthians/) | [☀️*VaporWave*](https://pedrohmac07.github.io/HTML_CSS/Projetos/VaporWave/) | [🎯*Landing-Page*](https://pedrohmac07.github.io/trilha-css-desafio-01/) |
 </center>
 
-
-## No momento que atualizei este README, tenho conhecimento sobre GIT | GITHUB | HTML & CSS | Java | Python | C
-
-
 # 💻 Tech Stack:
 ## 👨‍💻 Programming Languages: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
