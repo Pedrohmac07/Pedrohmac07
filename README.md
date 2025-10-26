@@ -1,6 +1,6 @@
 # **Pedro Henrique Machado**
 
-## Olá, eu sou Pedro Henrique Machado. E você está lendo meu README.md !
+## Olá, eu sou Pedro Henrique Machado. E você está lendo meu README.md!
 
 
 <center>
