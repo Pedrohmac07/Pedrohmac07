@@ -1,40 +1,6 @@
 # **Pedro Henrique Machado**
 
-## Olá, eu sou Pedro Henrique Machado. E você está lendo meu README.md!
+## Olá, eu sou Pedro Henrique Machado.
+Estou cursando Engenharia da Computação, e sou apaixonado por tecnologia! Gosto de postar projetos e aprendizados aqui!
 
-
-<center>
-  
-## 👤 About me:
-
-📓 Estudante de egenharia da computação na FMU. <br>
-💻 Na jornada de ser um dev full stack! <br>
-🌐 Postando diversos projetos aqui. <br>
-
-## 🌐 Socials:
-
-<center>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedrohmac07) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ph374011@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-machado-99171334a) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohmachado0/)
-
-</center>
-
-## **Eu estou estudando engenharia da computação, e estou fazendo cursos externos também. Para poder seguir uma carreira de dev full stack. Começando pelo front-end. Tenho projetos de sites como este:**
-
-# 📝**Projects**:
-# 🌐 *Sites*:
-## <center> | [🔐*Tela de Login*](https://pedrohmac07.github.io/Tela-De-Login/) | [🦅*Corinthians*](https://pedrohmac07.github.io/HTML_CSS/Projetos/SiteCorinthians/) | [☀️*VaporWave*](https://pedrohmac07.github.io/HTML_CSS/Projetos/VaporWave/) | [🎯*Landing-Page*](https://pedrohmac07.github.io/trilha-css-desafio-01/) |
-</center>
-
-# 💻 Tech Stack:
-## 👨‍💻 Programming Languages: 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-## Frameworks and Libs 📚
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-## Others ➕
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
----
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
