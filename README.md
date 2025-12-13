@@ -5,7 +5,7 @@
 
 <center>
   
-## 👤 Sobre mim
+## 👤 About me:
 
 📓 Estudante de egenharia da computação na FMU. <br>
 💻 Na jornada de ser um dev full stack! <br>
