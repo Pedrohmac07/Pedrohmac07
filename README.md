@@ -15,6 +15,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" alt="Pedrohmac07's Top Languages" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohmac07&show_icons=true&theme=synthwave)
