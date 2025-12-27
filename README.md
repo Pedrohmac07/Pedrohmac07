@@ -16,5 +16,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedrohmac07&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true" alt="Pedrohmac07's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" alt="Pedrohmac07's Top Languages" />
 </div>
